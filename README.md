@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Matvey Freelance Exchange</title>
-	 <center><h1>Matvey Freelance Exchange</h1></center>
+<center><h1>Matvey Freelance Exchange</h1></center>
 <hr>
   <style type="text/css">
 	div {
@@ -37,11 +37,10 @@
 <body>
   <div>
 	<center><img src="https://i.postimg.cc/W1Q37WNV/539439-B9-C3-AE-4004-9-F86-233-F957-A8114.png" width="75" height="75" alt="Лого"></center>
-
-	<p>Stttnsik (Работодатель)</p>
-	<p>Информация о работе:</p>
-	<p>Нужно помочь с написанием кода, оплата происходит в монетах MATVEY JETTON на ваш криптокошелёк.</p>
-	<p>Оплата: 50 MATVEY</p>
+<center><p>Stttnsik (Работодатель)</p></center>
+<center><p>Информация о работе:</p></center>
+<center><p>Нужно помочь с написанием кода, оплата происходит в монетах MATVEY JETTON на ваш криптокошелёк.</p></center>
+<center><p>Оплата: 50 MATVEY</p></center>
 	<center>
 	  <form action="https://t.me/stttnsik" target="_blank">
 		<button type="submit" class="floating-button">Написать Работадателю</button>
