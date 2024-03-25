@@ -32,7 +32,21 @@
 	  font-family: Arial;
 	  font-size: 1.4em;
 	}
-  </style>
+	body {
+  background-color: #ffffff; /* добавляем белый фон */
+  overflow: hidden; /* запретить прокрутку по горизонтали */
+}
+div {
+  width: 100%;
+  max-width: 320px;
+  margin: 0 auto;
+  padding: 10px;
+  border: 4px solid black;
+  background: #ffffff;
+  border-radius: 10px; /* скругление углов */
+  overflow-y: auto; /* добавляем вертикальную прокрутку если контент не помещается */
+}
+ </style>
 </head>
 <body>
   <div>
